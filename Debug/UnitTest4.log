@@ -1,0 +1,2 @@
+﻿  UnitTest4.cpp
+C:\Users\marki\Desktop\Yaryna visual studio\UnitTest4\UnitTest4.cpp(16): error C4700: uninitialized local variable 'n' used
