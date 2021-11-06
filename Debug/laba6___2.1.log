@@ -1,0 +1,15 @@
+﻿  laba6__2.1.cpp
+C:\Users\marki\Desktop\Yaryna visual studio\laba6___2.1\laba6__2.1.cpp(41,12): error C2065: 'usinged': undeclared identifier
+C:\Users\marki\Desktop\Yaryna visual studio\laba6___2.1\laba6__2.1.cpp(41,20): error C2146: syntax error: missing ')' before identifier 'time'
+C:\Users\marki\Desktop\Yaryna visual studio\laba6___2.1\laba6__2.1.cpp(41,20): error C2146: syntax error: missing ';' before identifier 'time'
+C:\Users\marki\Desktop\Yaryna visual studio\laba6___2.1\laba6__2.1.cpp(41,30): error C2059: syntax error: ')'
+C:\Users\marki\Desktop\Yaryna visual studio\laba6___2.1\laba6__2.1.cpp(42,27): error C2065: 'n': undeclared identifier
+C:\Users\marki\Desktop\Yaryna visual studio\laba6___2.1\laba6__2.1.cpp(43,22): error C2065: 'n': undeclared identifier
+C:\Users\marki\Desktop\Yaryna visual studio\laba6___2.1\laba6__2.1.cpp(45,15): error C2065: 'n': undeclared identifier
+C:\Users\marki\Desktop\Yaryna visual studio\laba6___2.1\laba6__2.1.cpp(46,10): error C2065: 'n': undeclared identifier
+C:\Users\marki\Desktop\Yaryna visual studio\laba6___2.1\laba6__2.1.cpp(46,13): error C2065: 'a': undeclared identifier
+C:\Users\marki\Desktop\Yaryna visual studio\laba6___2.1\laba6__2.1.cpp(46,16): error C2065: 'number': undeclared identifier
+C:\Users\marki\Desktop\Yaryna visual studio\laba6___2.1\laba6__2.1.cpp(48,15): error C2065: 'n': undeclared identifier
+C:\Users\marki\Desktop\Yaryna visual studio\laba6___2.1\laba6__2.1.cpp(48,18): error C2065: 'a': undeclared identifier
+C:\Users\marki\Desktop\Yaryna visual studio\laba6___2.1\laba6__2.1.cpp(48,21): error C2065: 'ty': undeclared identifier
+C:\Users\marki\Desktop\Yaryna visual studio\laba6___2.1\laba6__2.1.cpp(48,25): error C2065: 'number': undeclared identifier
